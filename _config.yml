@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://www.facebook.com/photo.php?fbid=10206488762552855&l=8772643111
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
